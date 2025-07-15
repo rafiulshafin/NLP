@@ -13,6 +13,7 @@ The goal of the project is to fine-tune these pre-trained models on labeled sent
 
 # Models Implemented
 1. BERT
+   
 a.Pre-trained Model: bert-base-uncased
 
 b.Tokenization: WordPiece using BertTokenizer
