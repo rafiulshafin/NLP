@@ -29,6 +29,7 @@ g.Batch Size: 16
 
 
 2. ELECTRA
+   
 a.Pre-trained Model: google/electra-small-discriminator
 
 b.Tokenization: Subword tokenization using ElectraTokenizer
