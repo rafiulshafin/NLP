@@ -38,3 +38,20 @@ e.Optimizer: AdamW with scheduler
 f.Epochs: 5
 
 g.Batch Size: 16
+
+Results:
+| Model       | Dataset 1 Accuracy | Dataset 1 F1-Score | Dataset 2 Accuracy | Dataset 2 F1-Score |
+| ----------- | ------------------ | ------------------ | ------------------ | ------------------ |
+| **BERT**    | 97.85%             | 0.9787             | 34.00%             | 0.3223             |
+| **ELECTRA** | **100.00%**        | **1.0000**         | **51.01%**         | **0.3446**         |
+
+Technologies Used
+1.Python
+
+2.PyTorch
+
+3.Hugging Face Transformers
+
+4.Scikit-learn
+
+5.Pandas, NumPy
